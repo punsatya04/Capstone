@@ -16,5 +16,5 @@ SentinelWatch, a lightweight, self-hosted security platform that unifies three c
 
   (2) aggregates threat intelligence indicators from public and internal sources into a searchable, centrally organized feed (Threat Intelligence Aggregation)
 
-  (3) presents everything through a centralized SOC Dashboard that gives analysts monitoring, alerting, visualization, and basic case-investigation capabilities in one       interface. 
+  (3) presents everything through a centralized SOC Dashboard that gives analysts monitoring, alerting, visualization, and basic case-investigation capabilities in one interface. 
  
